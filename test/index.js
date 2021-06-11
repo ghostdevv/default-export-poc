@@ -1,0 +1,1 @@
+const svelte = require('../dist');
